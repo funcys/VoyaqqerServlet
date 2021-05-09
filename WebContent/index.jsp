@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>Voyaqqerへようこそ！</h1>
+<h1>Voyaqqerへようこそ！！</h1>
 <form action="/Voyaqqer/Login" method="post">
 
 ユーザー名：<input type="text" name="user_name"><br>
